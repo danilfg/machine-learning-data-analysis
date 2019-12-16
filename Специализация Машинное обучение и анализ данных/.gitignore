@@ -1,0 +1,53 @@
+*-checkpoint.ipynb
+.idea/*
+*.pkl
+*.npy
+*.DS_store
+.ipynb_checkpoints
+
+# Solved assignments
+*/assignments/
+*/quizzes/
+*solution*.ipynb
+*review*.ipynb
+*submission*.txt
+answer_*.txt
+_*.*
+_*.ipynb
+*_answer*.txt
+
+# Mathematics and Python solved assignments
+1-mathematics-and-python/assignment_*/_*.ipynb
+1-mathematics-and-python/assignment_*/_*.py
+1-mathematics-and-python/assignment_*/*.png
+1-mathematics-and-python/assignment_*/0[0-9].txt
+1-mathematics-and-python/assignment_*/*_solution.ipynb
+1-mathematics-and-python/*/practice*.txt
+
+# Supervised learning solved assignments
+2-supervised-learning/quizzes/*
+
+# Unupervised learning solved assignments
+
+# Stats for Data Analysis Quizzes
+4-stats-for-data-analysis/quiz_*.ipynb
+4-stats-for-data-analysis/assignment*.*
+4-stats-for-data-analysis/practice_quiz_*.ipynb
+4-stats-for-data-analysis/week_*/quiz_*.ipynb
+4-stats-for-data-analysis/week_*/practice_quiz_*.ipynb
+4-stats-for-data-analysis/*/submission*.*
+4-stats-for-data-analysis/week_4/assignment_part_*_genes.ipynb
+4-stats-for-data-analysis/week_4/assignment_part_*_genes.ipynb
+
+#
+5-data-analysis-applications/*/_*.ipynb
+5-data-analysis-applications/*/_*.py
+5-data-analysis-applications/*/answer_*.txt
+5-data-analysis-applications/*/__pycache__
+5-data-analysis-applications/02_computer_vision/test/
+5-data-analysis-applications/02_computer_vision/train/
+
+#
+6-data-analysis-project/4-sentiment-analysis/_*/
+6-data-analysis-project/4-sentiment-analysis/*submissions/
+6-data-analysis-project/1-pattern-mining/capstone_websites_data
